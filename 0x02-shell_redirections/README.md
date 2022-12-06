@@ -1,1 +1,1 @@
-My first readme
+I am learning Shell I/O Redirections
